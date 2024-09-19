@@ -1,8 +1,8 @@
 body {
   background-image: url("backround.png");
   background-color: #cccccc;
-  background-repeat:no-repeat;
-  background-size:1366px 617px;
+  background-repeat:repeat;
+  background-size:auto;
  }
 /* Add a black background color to the top navigation */
 .topnav {
